@@ -1,4 +1,4 @@
-# Desgin VI
+# Design VI
 ## GitHub repository for Engineering Design VI (CPE 322)
 
 Here I will put all of my files for the class. **Feel free to look around!** I'm happy to share my progress.
