@@ -71,7 +71,8 @@ I edited the code a bit and printed some custom messages.
 What I don't understand is why one would use renders to preparse strings when you could just use variables?  
 Perhaps to compress the strings, and for increased readability.
 
-
+## Update:  
+So I recently talked with my dad about coding for internaltionalization, or I18N, and he told me how this can be used in combination with somekind of gettext() function and a resource file to prepare programs for localization. A resource file is a file of all the strings in a program that would have to be translated.
 
 
 
